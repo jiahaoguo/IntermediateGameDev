@@ -1,7 +1,13 @@
 
-- Update your dev log reflecting on the following prompts: 
+
+Jiahao Guo Week 1 Devlog
 
 - Which industry role(s) sound the best and/or worst to you? Are you even sure you want to work within the industry? 
 What else would you be interested in doing? - Which role(s) was surprising, boring, easy, hard, cheap, expensive, or __? 
 
-- Text should be 100+ words.
+
+Many roles intrigued me in the reading. Some roles surprised me, such as audio engineer, which I never heard of. Since I am not settled yet on the decision between art and programming, roles in both appeal to me. Art-related roles such as concept artist, environment artist, fx artist, and sound designer, and programming-related roles such as gameplay programmer and AI programmer all sound interesting to me.
+
+To be specific, I always heard about and liked the position of an art director, but just like many other roles in the reading, it probably sounds much simpler than it actually is. I am curious about the differences between the skill requirements for each, as many roles seem to be sharing a lot of common areas.
+
+I'm also curious about the dynamics of these professions in the industry, such as which roles are the most popular, most needed, highest and lowest paid, and so on. 
