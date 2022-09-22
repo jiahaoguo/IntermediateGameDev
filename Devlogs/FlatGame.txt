@@ -1,0 +1,3 @@
+
+Discuss your process of working on your flat game!
+It was fun to make the game. I made a butterfly flitting around because I thought it'd be ideal for a main character who doesn't collide with anything. I enjoyed the process of making the art and animation sprites. I am not so confident with colouring, so I chose to make the world in black and white, only with a few roses colored, and I think the style came out pretty unique. In addition, I always liked Game Maker because of how comfortable I am with it and felt hesitant about using Unity. While making this project, however, I truly felt the advantages of Unity, as it has features such as being able to edit in real time while the game is running (it also rarely lags, unlike GM).
