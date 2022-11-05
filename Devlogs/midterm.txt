@@ -1,0 +1,7 @@
+- Update your devlog with a new entry (100+ words)
+      - Discuss your midterm production! Perhaps reflect on your feedback from the playtest?
+      - Write down 1 question you have about Unity or development in general 
+
+It was fun making the midterm. I find the idea of freely exploring a house new and interesting, and I tried my best to create a surprising and rewarding experience for the player. However, I underestimated how many assets are required to fulfill that mechanic, as every scene that a player may look at for a few seconds took me a long time to make. There were a lot of really interesting and useful advises my classmates gave me during the critique, such as having items that decrease points. I liked all of them, but I didn't have the time to implement everything.
+
+One question I have is how to use arrays, lists, and dictionaries in Unity. We learned about arrays and lists in Game Maker, but I often get errors when using them in Unity.
