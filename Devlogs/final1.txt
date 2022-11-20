@@ -1,0 +1,8 @@
+- Update your devlog with a new entry (100+ words)
+      - We are doing devlogs again! Discuss working on your final!
+      - Write down 1 question you have about Unity or development in general
+
+
+I am working with my group on a clone of the game Brotatos. We decided to use the art of Terraria in place of Brotato's original graphics, and I am mainly responsible for implementing that. My work includes gathering the sprites, building the animations into the game, and merging them into the settings of Brotato. Terraria, for example, has a side-scrolling perspective, whereas Brotato has a top-down perspective. This means that elements such as the floor texture are absent in Terraria, and I have to customize one that matches the game's aesthetic. Another issue is that the movement of entities in top-down perspective also differs from side-scrolling, and we have to make design changes to fit into the latter perspective.
+
+A question I have is how to manage text in the game. So far, I've made each of my texts individually using text mesh pro editer, which I see as a potential issue in the future, such as when I try to build the game in different languages. 
