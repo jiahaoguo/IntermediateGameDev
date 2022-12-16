@@ -1,0 +1,16 @@
+project post-mortem (300+ words) that details 2 things that went well and 2 things that could be improved, and 1 paragraph about your contributions. This will be your final dev log for the class.
+
+
+The two things that went well for our group were the overall playing experience and the visual presentation.
+
+The game was, after all, very fun to play, and we as developers all enjoyed it. Our teammate Ryan did a good job balancing the difficulty, and since we planned a long game, we could play it for up to an hour. It was also great to see that there were few bugs reported on the game, due to Mingzhi's effort in creating clear and effective codes.
+
+I am also satisfied with the presentation of the game as a prototype. I am glad that the title screen I made received some good reflections. The particle systems that Mingzhi built, such as the gold picking and the hit number display, were also important to the game's feel. All of this adds up and makes the game feel simple but complete.
+
+The two things that I think could be improved are the juice of the game and the UI design.
+
+The original Brotato's game had a lot of juice effects, and we agreed that they contributed a lot to its popularity. However, for the time being, we didn't get to clone a lot of that, including the hit animation of bullets, the death animation of enemies, the effects of different weapons and accessories, etc. We were all aware that these elements were important for the game but had to prioritize key features such as the shop system instead.
+
+The UI design could also improve. So far, we've used simple geometric shapes, which look less polished. If we have more time, we could adopt the UI design of Terraria to make the theme more applicable.
+
+For my contribution, I worked mostly on the graphics. I implemented the animations of the enemies, made the tile maps, and designed the title scene. I communicated a lot with my teammates about the visual presentation of the game and created different versions of the graphic components for them to use.

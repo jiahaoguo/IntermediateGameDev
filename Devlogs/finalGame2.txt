@@ -1,0 +1,7 @@
+
+
+Update your devlog with a new entry (100+ words)
+Talk about working on your final project.
+
+
+For our team, we had a clear division of the work. My work was mostly on the graphics and tiles of the game. My teammates have developed the basic fighting mechanics of the game. Though there is little content demonstrated so far, since the codes were built properly, it will be easy to add more content later. A lot of customization was required on my part since we were cloning two games (Terraria's art and Brotato's mechanics). It was fun trying to combine the graphic elements of the two games together. For example, my title screen design is based on the composition of Brotato's title screen, but uses Terraria characters.
